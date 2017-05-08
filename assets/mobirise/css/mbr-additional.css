@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .navbar-brand a {
+  font-size: 23px;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #e25041;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #df402f;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #ffffff;
+}
+#header3-4 H3 {
+  text-align: center;
+}
+#msg-box1-6 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-6 .mbr-article {
+  color: #fff;
+}
+#msg-box1-6 .mbr-header .mbr-header__text SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#form1-8 .mbr-header__text {
+  font-family: 'Lato', sans-serif;
+}
