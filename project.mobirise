@@ -379,8 +379,8 @@
           ],
           "_anchor": "testimonials1-7",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
